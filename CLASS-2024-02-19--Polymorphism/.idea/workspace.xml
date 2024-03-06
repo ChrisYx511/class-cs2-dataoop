@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0009640f-b026-4f64-b12e-c2d3d60d32cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/ASSIGN-2024-02-04--Lab 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/Lab1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/src/dev/chrisyx511/cs1/lab1/Odometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/src/dev/chrisyx511/cs1/lab1/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/src/dev/chrisyx511/cs1/lab1/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ASSIGN-2024-02-04--Lab 1/src/dev/chrisyx511/cs1/lab1/StudentRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLASS-2024-01-29--OOP Review/CLASS-2024-01-29--OOP Review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLASS-2024-01-29--OOP Review/src/dev/chrisyx511/cs2/lecture/OOPReview/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLASS-2024-02-05--ClassParams/CLASS-2024-02-05--ClassParams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CLASS-2024-02-05--ClassParams/src/dev/chrisyx511/cs2/lecture/ClassParams/ReferenceDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS-2024-02-19--Polymorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/chrisyx511/cs2/lecture/Polymorphism/DiscountSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/chrisyx511/cs2/lecture/Polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dev/chrisyx511/cs2/lecture/Polymorphism/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-2024-02-12--Inheritance/Class-2024-02-12--Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-2024-02-12--Inheritance/src/dev/chrisyx511/cs2/lecture/Inheritance/DiscountSale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-2024-02-12--Inheritance/src/dev/chrisyx511/cs2/lecture/Inheritance/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class-2024-02-12--Inheritance/src/dev/chrisyx511/cs2/lecture/Inheritance/Sale.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2cairW9E4NkzFud3kNh3MnkBaQk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab5Work.executor": "Run",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dev/chrisyx511/cs2/lecture/Polymorphism" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0009640f-b026-4f64-b12e-c2d3d60d32cb" name="Changes" comment="" />
+      <created>1708356291471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708356291471</updated>
+      <workItem from="1708356292556" duration="459000" />
+      <workItem from="1708356757688" duration="4090000" />
+      <workItem from="1708525601715" duration="3320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
